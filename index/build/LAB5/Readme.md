@@ -1,7 +1,7 @@
 # Lab 5: Dijkstra's Shunting-Yard Expression Evaluator & SQL SELECT Parser
 
-**Name:** Rachit S  
-**Roll Number:** 24bcs10139  
+**Name:** Arman Barbhuiya  
+**Roll Number:** 24bcs10196  
 **Course:** Advanced Database Management Systems (AdvDBMS)
 
 ---
